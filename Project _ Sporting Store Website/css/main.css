@@ -107,8 +107,6 @@ p {
 }
 
 #navbar .flex-container-li {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
@@ -186,8 +184,6 @@ p {
 }
 
 #home-info .info-content {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -242,6 +238,7 @@ p {
   border-radius: 50%;
 }
 
+/*--commentaires (kais said)*/
 #testimonials {
   height: 100%;
   background: url(../img/test-bg.jpg) no-repeat center center/cover;
